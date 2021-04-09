@@ -5,7 +5,7 @@ I'm Tomas. I'm a student at [Hurlingham National University](http://unahur.edu.a
 <p align="left">
  <a href="https://tomastoloza.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/ios/50/000000/internet.png" alt="Web page" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://linkedin.com/in/tomas-toloza" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:tomasezequieltoloza@gmail.com"> <img src="https://img.icons8.com/ios/50/000000/email.png" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:tomasezequieltoloza+gh@gmail.com"> <img src="https://img.icons8.com/ios/50/000000/email.png" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## Languages and Tools:
